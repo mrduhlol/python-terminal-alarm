@@ -1,12 +1,12 @@
 A `minimal` yet functional `terminal alarm application` written in Python, designed for beginners exploring automation and time-based scripting. This project demonstrates practical usage of Python modules like `datetime`, `time`, and system audio handling while maintaining a clean CLI experience.
 
-##🚀 Features
+## 🚀 Features
 - Simple terminal-based alarm
 - Real-time clock checking
 - Lightweight and beginner-friendly
 - Easy to modify and improve
 
-##⏰ Alarm Format
+## ⏰ Alarm Format
 The alarm time must be entered strictly in 24-hour format:
 
 `HH:MM:SS`
@@ -21,8 +21,11 @@ Example:
 
 Only this format works correctly.
 
-##📸 Screenshot
+## 📸 Screenshot
 
-[ Upload screenshot here ]
+1. <img width="309" height="56" alt="image" src="https://github.com/user-attachments/assets/d20c142e-ffaa-48b3-b1ed-5127007451b4" />
 
-Contributions, forks, and suggestions are welcome!
+2. <img width="300" height="530" alt="image" src="https://github.com/user-attachments/assets/df16f3f5-b00e-4977-89ee-23cff231662f" />
+
+
+Another cool thing!! as soon as u set the alarm, the clock starts to tick in your terminal showing you the exact time right now.
