@@ -29,11 +29,3 @@ Only this format works correctly.
 
 
 Another cool thing!! as soon as u set the alarm, the clock starts to tick in your terminal showing you the exact time right now.
-
-//////////////////
-
-<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/58e33d25-7ba2-446d-87f6-bd4971f00a44" />
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/9e06279b-d68b-4dd5-bf74-c65d7fed0a94" />
